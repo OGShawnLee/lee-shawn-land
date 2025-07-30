@@ -3,6 +3,7 @@ import ProjectSection  from './ProjectSection.svelte';
 
 export { default as Code } from "./Code.svelte";
 export { default as GitHubLink } from './GitHubLink.svelte';
+export { default as InstagramLink } from './InstagramLink.svelte';
 export { default as IconLink } from './IconLink.svelte';
 export namespace Project {
   export const Card = ProjectCard;
