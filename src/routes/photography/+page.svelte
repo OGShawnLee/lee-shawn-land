@@ -13,8 +13,6 @@
 		}
 	);
 
-	console.log(Object.values(photography));
-
 	let choosenPicture = $state('');
 	let open = $state(false);
 
