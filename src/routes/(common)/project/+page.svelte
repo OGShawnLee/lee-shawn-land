@@ -30,6 +30,11 @@
 			everyone's talent. Find the service you need or the job opportunity you deserve. Building a
 			more just and equitable Veracruz together.
 		</Project.Card>
+		<Project.Card title="Yin" repository="OGShawnLee/yin" website="https://yin-sable.vercel.app">
+			Yin is Twitter-like social media platform that allows users to share their thoughts and
+			interact with others in a simple and elegant way. Serves as a personal garden of ideas. It is
+			built with SvelteKit, TypeScript and GelDB.
+		</Project.Card>
 	</Project.Section>
 	<Project.Section title="Programming Language">
 		<Project.Card title="Pino" repository="OGShawnLee/pino-lang">
