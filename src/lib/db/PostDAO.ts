@@ -13,7 +13,6 @@ export default class PostDAO {
 
     for (const path in paths) {
       const file = paths[path]
-      console.log(file);
       const slug = path.split('/').at(-1)?.replace('.md', '')
   
       if (file && typeof file === 'object' && 'metadata' in file && slug) {

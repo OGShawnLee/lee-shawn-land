@@ -65,7 +65,7 @@
     }
 
     :global(em) {
-      --uno: "text-lg font-britney"
+      --uno: "text-lg font-britney mx-0.5"
     }
 
     :global(strong) {
